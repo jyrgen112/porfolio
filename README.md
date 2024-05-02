@@ -1,1 +1,1 @@
-This is my porfolio it was made wiht html,css and w3school.
+This is my porfolio it was made with html,css and w3school.
